@@ -22,7 +22,7 @@
   },
   "devDependencies": {
     "browser-sync": "^2.18.8",
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.2",
     "npm-run-all": "^1.7.0",
     "onchange": "^2.2.0",
     "uglify-js": "^2.6.1"
